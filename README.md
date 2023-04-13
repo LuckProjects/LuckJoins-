@@ -34,9 +34,11 @@ Discord ID : Luck#0009
 
 ## Version History
 
-* 0.1
+* V0.1
     * Just Started
     * See [commit change]() or See [release history]()
+* V2.0.0
+    * Plugin Done.
 
 
 ## License
